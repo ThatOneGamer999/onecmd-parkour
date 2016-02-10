@@ -1,0 +1,18 @@
+Setup:
+Obtain a command block through /setblock ~ ~ ~ command_block.
+
+Note: You MUST be in creative mode. Next paste in the command you can get from my Repo.
+
+Possible keybinds to do this: 'CTRL-V' 'COMMAND-V' 'STRG-V'.
+
+Next, place a redstone block on one of the SIDES of the command block. A bootiful machine should appear!
+
+To start the machine: Press the button on the GREEN wool. Now: special blocks! To set someone as "In Parkour Mode": '/scoreboard players set parkour 1'
+
+Use:
+Create your parkour.
+Place LIME clay at checkpoints and at the beginning.
+Make the floor RED clay.
+Install my machine.
+Step on the LIME clay at the BEGINNING.
+Now you're ready to rock and roll!
